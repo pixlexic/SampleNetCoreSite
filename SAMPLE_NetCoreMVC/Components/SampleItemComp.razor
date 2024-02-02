@@ -1,0 +1,14 @@
+﻿@using SAMPLE_NetCoreMVC.Models
+
+@code {
+
+    [Parameter]
+    public SampleItemModel? Item { get; set; }
+
+
+
+}
+
+
+
+<button style="width: 300px; text-align:left; padding:6px;" onclick="">@Item.Title</button>

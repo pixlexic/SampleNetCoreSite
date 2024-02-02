@@ -1,0 +1,17 @@
+﻿@using Microsoft.AspNetCore.Http
+@model dynamic
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using SAMPLE_NetCoreMVC.Components
+
+@{
+    ViewData["Title"] = "Razor Page";
+
+
+}
+
+<div class="contentIn" style="position:relative; display:flex; flex-direction:column; height:100%;">
+    <div class="pageTitle"><div style=" flex: 0 1 auto; padding:10px;">Blazor Page</div></div>
+    <div class="pageExplain"><div style=" flex: 0 1 auto; padding: 10px;">This is a simple page layout using only Razor. </div></div>
+    <component type="typeof(SampleForm)" render-mode="ServerPrerendered" param-Razor="@Model.Razor" />
+</div>
+

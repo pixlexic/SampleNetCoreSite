@@ -1,0 +1,33 @@
+﻿@using Microsoft.AspNetCore.Http
+@model BaseViewModel
+
+<div class="headerBox mainColor">
+
+    <div style="position:relative; display:flex;">
+        <div style="flex: 1 1 auto;"></div>
+        <div style="flex: 1 1 auto; width: 1200px;">
+            <div style="position:relative; display:flex; align-items:center;">
+                <div class="logoMain" style="flex: 1 1 auto; height: 100px; max-width: 300px; background-position: center; background-size: contain;"></div>
+                <div style="flex:1 1 auto;">
+                    <div style="position:relative; display:flex;">
+                        <div style="flex:1 1 auto;"></div>
+                        @foreach (var item in Model.Header.Items)
+                            {
+                            <div style="flex: 0 1 auto; padding: 0 10px; "><button onclick="window.location.href = '/@(item)'">@item</button></div>
+                            }
+
+                            <div style="flex:1 1 auto;"></div>
+                        </div>
+
+                </div>
+                <div style="flex:1 1 auto;"></div>
+
+            </div>
+        </div>
+        <div style="flex:1 1 auto;"></div>
+
+
+
+    </div>
+
+</div>

@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC.csproj": {}
+  },
+  "projects": {
+    "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC.csproj",
+        "projectName": "SAMPLE_NetCoreMVC",
+        "projectPath": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC.csproj",
+        "packagesPath": "/Volumes/extHomef/williamjones/.nuget/packages/",
+        "outputPath": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/Volumes/extHomef/williamjones/Library/Application Support/Godot/mono/GodotNuGetFallbackFolder",
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Volumes/extHomef/williamjones/.nuget/NuGet/NuGet.Config",
+          "/Volumes/extHomef/williamjones/.nuget/NuGet/config/Godot.Offline.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Blazor-ApexCharts": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

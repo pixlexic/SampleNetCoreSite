@@ -1,0 +1,36 @@
+﻿@using SAMPLE_NetCoreMVC.Models
+@model dynamic
+<!DOCTYPE html>
+<html>
+<head>
+    <base href="~/" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] </title>
+
+    <link rel="stylesheet" href="~/css/site.css"> 
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <script type="text/javascript" src="~/js/site.js"></script>
+    <script src="_framework/blazor.server.js"></script>
+
+
+</head>
+<body>
+    <div class="content mainColor">
+        <partial name="~/Views/Shared/_Top.cshtml" model="Model.BaseVM" />
+        <partial name="~/Views/Shared/_Header.cshtml" model="Model.BaseVM" />
+        <div style="flex: 1 1 auto; position: relative; display: flex; height: 100%;">
+            <div style="flex:1 1 auto;"></div>
+            <div style="flex: 1 1 auto; width: 1200px; display: flex; flex-direction: column; ">
+                @RenderBody()
+            </div>
+            <div style="flex:1 1 auto;"></div>
+        </div>
+        <div style="flex:0 1 auto; height:50px;"></div>
+        @* @RenderSection("Scripts", required: false) *@
+
+    </div>
+    <partial name="~/Views/Shared/_Footer.cshtml" />
+</body>
+</html>
+

@@ -1,0 +1,242 @@
+﻿html {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-color: #efefef;
+    color: #000000;
+    margin: 0;
+    height: 100%;
+}
+
+
+/* globals */
+
+.mainColor {
+    background-color: #ffffff;
+    color: #666666;
+}
+
+.topColor {
+    background-color: #161616;
+    color: #666666;
+}
+
+.footerColor {
+    background-color: #333333;
+    color: #cccccc;
+}
+
+
+.logoMain {
+    background-image: url('/images/light.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+
+.facebookLogo {
+    background-image: url('/images/facebook_light.svg ');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 40px;
+}
+
+.pinterestLogo {
+    background-image: url('/images/pinterest_light.svg ');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 40px;
+}
+
+.instagramLogo {
+    background-image: url('/images/instagram_light.svg ');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 40px;
+}
+
+
+
+.shadeColor {
+    background-color: rgba(0,0,0, 0.05);
+}
+
+.shadeColorB {
+    background-color: rgba(0,0,0, 0.03);
+}
+
+
+
+/* globals end*/
+
+
+button:focus {
+    outline: 0 !important;
+}
+
+input,
+button,
+submit {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+button {
+    border-bottom: solid 1px transparent;
+    transition: border-bottom 0.5s;
+}
+
+
+    button:hover {
+        border-bottom: solid 1px;
+        transition: border-bottom 0.5s;
+    }
+
+
+
+
+input {
+    background-color: #cccccc;
+    color: #333333;
+    padding: 3px;
+}
+
+
+.baseAbsolute {
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    overflow:auto;
+}
+
+
+
+.content {
+    position:relative;
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction:column;
+}
+
+
+.footer {
+    position: relative;
+    flex-shrink: 0;
+    height: 200px;
+}
+
+
+.topBox {
+    position: relative;
+    flex: 0 1 auto;
+    height: 40px;
+}
+
+.headerBox {
+    position: relative;
+    flex:0 1 auto;
+    /*box-shadow: 0px 1px 13px rgba(0, 0, 0, 0.12);*/
+    border-bottom: solid 1px;
+    height: 100px;
+}
+
+
+.contentIn {
+    position: relative;
+    flex: 1 1 auto;
+    padding: 10px;
+}
+
+
+.pageTitle {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.pageExplain {
+    white-space:pre-line;
+   
+}
+
+
+.titleSmall {
+
+    font-size:12px;
+    border-bottom: solid 1px;
+    text-align:center;
+    margin: 10px;
+}
+
+
+.inputTitle {
+    padding: 0 6px;
+    height: 30px;
+}
+.itemValue {
+    padding: 0 6px;
+    height: 30px;
+}
+
+
+.footerItem {
+    flex:1 1 auto;
+    padding: 8px;
+
+}
+
+
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #333333;
+        color: #cccccc;
+    }
+
+
+    input {
+        background-color: #cccccc;
+        color: #333333;
+        padding: 3px;
+    }
+
+    .mainColor {
+        background-color: #333333;
+        color: #cccccc;
+    }
+
+    .footerColor {
+        background-color: #000000;
+        color: #cccccc;
+    }
+
+    .logoMain {
+        background-image: url('/images/dark.svg');
+    }
+
+  
+
+
+    .shadeColor {
+        background-color: rgba(255,255,255, 0.05);
+    }
+
+    .shadeColorB {
+        background-color: rgba(255,255,255, 0.03);
+    }
+}

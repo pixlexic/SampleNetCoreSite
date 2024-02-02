@@ -1,0 +1,174 @@
+﻿@using SAMPLE_NetCoreMVC.Models
+
+@using System.Net.Http
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Components.Authorization
+@using Microsoft.AspNetCore.Components.Forms
+@using Microsoft.AspNetCore.Components.Routing
+@using Microsoft.AspNetCore.Components.Web
+@using Microsoft.JSInterop
+@using ApexCharts
+
+<div class="shadeColorB" style="flex: 1 1 auto; position: relative; display: flex; height: 100%; ">
+    <div class="shadeColor" style="flex: 0 1 auto; position: relative; width: 320px;">
+        <div class="titleSmall"> Items </div>
+        <div class="baseAbsolute" style="display:flex; top:30px; flex-direction:column;">
+            @{ var odd = true; }
+            @foreach (var item in Razor.Items)
+            {
+
+                <div class="@(odd ? "shadeColor": "shadeColorB")" style="flex: 0 1 auto; padding: 0 10px;  ">
+                    <button style="width: 300px; text-align:left; padding:6px;" @onclick="() => SetCurrent(item)">@item.Title</button>
+                </div>
+
+                odd = !odd;
+            }
+        </div>
+
+    </div>
+    <div style="flex: 1 1 auto; ">
+        <div style="position:relative; display: flex; flex-direction:column; ">
+            <div class="titleSmall" style="flex: 0 1 auto;">Item Info</div>
+
+            <div style="flex: 0 1 auto; padding: 10px;">@_currentItem.Title</div>
+            <div style="flex: 1 1 auto; position: relative; display: flex; padding: 10px;">
+                <div style="flex: 1 1 auto; display: flex; ">
+                    <div style="flex: 0 1 auto;">
+                        <div class="inputTitle shadeColor">Title</div>
+                        <div class="inputTitle shadeColorB">Description</div>
+                        <div class="inputTitle shadeColor">Cost</div>
+                        <div class="inputTitle shadeColorB">Qty</div>
+                    </div>
+                    <div style="flex: 0 1 auto; width: 400px;">
+                        <div class="itemValue shadeColor">@_currentItem.Title</div>
+                        <div class="itemValue shadeColorB"><input style="width:95%;" type="text" @bind="_currentItem.Description" /></div>
+                        <div class="itemValue shadeColor"><input style="width:50px; " type="text" @bind="_currentItem.Cost" /></div>
+                        <div class="itemValue shadeColorB"><input style="width:50px;" type="text" @bind="_currentItem.Qty" /></div>
+
+
+                    </div>
+                    <div style="flex: 1 1 auto; display:flex;">
+                        <div style=" flex: 1 1 auto;"></div>
+                        <div style=" flex: 0 1 auto; width: 400px; background-color:#edededed;">
+                            <ApexChart  @ref="chart"
+                                       TItem="ChartItem"
+                                        Options="options"
+                                       Title="Order Gross Value">
+
+                                <ApexPointSeries TItem="ChartItem"
+                                                 Items="Charts"
+                                                 Name="Gross Value"
+                                                 SeriesType="SeriesType.Pie"
+                                                 XValue="@(e => e.Title)"
+                                                 YAggregate="@(e => e.Sum(e => e.Value))"
+                                                 OrderByDescending="e=>e.Y"
+                                                 PointColor="e=> GetPointColor(e)"
+                                                 ShowDataLabels />
+                            </ApexChart>
+                        </div>
+                        <div style=" flex: 1 1 auto;"></div>
+                    </div>
+                    </div>
+
+            </div>
+
+
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+@code {
+
+
+    [Parameter]
+    public RazorExampleModel? Razor { get; set; }
+
+    public SampleItemModel? _currentItem = new SampleItemModel("test", "", 0, 10, 10);
+
+
+
+    private ApexChartOptions<ChartItem>? options;
+    private ApexChart<ChartItem>? chart;
+    private List<ChartItem> Charts = new List<ChartItem>();
+
+
+    protected override void OnInitialized()
+    {
+
+        options = new ApexChartOptions<ChartItem>
+        {
+            Theme = new Theme
+            {
+                Mode = Mode.Light,
+                Palette = PaletteType.Palette1
+            }
+        };
+
+
+        SetUpChart();
+
+    }
+
+
+
+    private void SetCurrent(SampleItemModel sampItem)
+    {
+
+        _currentItem = sampItem;
+
+
+        // Charts[0].Value = sampItem.Sold;
+
+        SetUpChart();
+
+        //StateHasChanged();
+
+    }
+
+
+    private async Task SetUpChart()
+    {
+
+
+        Charts = new List<ChartItem>();
+
+        ChartItem _a = new ChartItem();
+        _a.Title = "Qty";
+        _a.Value = _currentItem.Qty;
+        Charts.Add(_a);
+
+        ChartItem _b = new ChartItem();
+        _b.Title = "Sold";
+        _b.Value = _currentItem.Sold;
+        Charts.Add(_b);
+
+        await chart.RenderAsync();
+    }
+
+
+
+    private string GetPointColor(ChartItem chartItem)
+    {
+        switch (chartItem.Title)
+        {
+            case "Qty":
+                return "#999999";
+            case "Sold":
+                return "#bbbbbb";
+
+            default:
+                return "#ffffff";
+        }
+
+
+
+    }
+
+
+}
+
