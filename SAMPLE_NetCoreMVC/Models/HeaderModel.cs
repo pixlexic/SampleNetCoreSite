@@ -12,7 +12,7 @@ namespace SAMPLE_NetCoreMVC.Models
 			Items.Add("Home");
             Items.Add("Blazor");
             Items.Add("Angular");
-          //  Items.Add("React");
+            Items.Add("React");
 
 
         }

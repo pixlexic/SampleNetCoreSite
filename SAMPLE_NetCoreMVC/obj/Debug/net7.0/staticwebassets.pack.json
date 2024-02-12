@@ -1,335 +1,403 @@
 {
   "Files": [
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/obj/Debug/net7.0/scopedcss/projectbundle/SAMPLE_NetCoreMVC.bundle.scp.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/obj/Debug/net7.0/scopedcss/projectbundle/SAMPLE_NetCoreMVC.bundle.scp.css",
       "PackagePath": "staticwebassets/SAMPLE_NetCoreMVC.bundle.scp.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/.DS_Store",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/.DS_Store",
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/css/site.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/favicon.ico",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/images/.DS_Store",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/images/.DS_Store",
       "PackagePath": "staticwebassets/images/.DS_Store"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/images/dark.svg",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/images/dark.svg",
       "PackagePath": "staticwebassets/images/dark.svg"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/images/facebook_dark.svg",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/images/facebook_dark.svg",
       "PackagePath": "staticwebassets/images/facebook_dark.svg"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/images/facebook_light.svg",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/images/facebook_light.svg",
       "PackagePath": "staticwebassets/images/facebook_light.svg"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/images/instagram_dark.svg",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/images/instagram_dark.svg",
       "PackagePath": "staticwebassets/images/instagram_dark.svg"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/images/instagram_light.svg",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/images/instagram_light.svg",
       "PackagePath": "staticwebassets/images/instagram_light.svg"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/images/light.svg",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/images/light.svg",
       "PackagePath": "staticwebassets/images/light.svg"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/images/logo.png",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/images/logo.png",
       "PackagePath": "staticwebassets/images/logo.png"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/images/logolight.png",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/images/logolight.png",
       "PackagePath": "staticwebassets/images/logolight.png"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/images/pinterest_dark.svg",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/images/pinterest_dark.svg",
       "PackagePath": "staticwebassets/images/pinterest_dark.svg"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/images/pinterest_light.svg",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/images/pinterest_light.svg",
       "PackagePath": "staticwebassets/images/pinterest_light.svg"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/js/.DS_Store",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/.DS_Store",
       "PackagePath": "staticwebassets/js/.DS_Store"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/js/ang/.DS_Store",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/ang/.DS_Store",
       "PackagePath": "staticwebassets/js/ang/.DS_Store"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/.DS_Store",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/.DS_Store",
       "PackagePath": "staticwebassets/js/ang/sample-app/.DS_Store"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/3rdpartylicenses.txt",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/3rdpartylicenses.txt",
       "PackagePath": "staticwebassets/js/ang/sample-app/3rdpartylicenses.txt"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/favicon.ico",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/favicon.ico",
       "PackagePath": "staticwebassets/js/ang/sample-app/favicon.ico"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/index.html",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/index.html",
       "PackagePath": "staticwebassets/js/ang/sample-app/index.html"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/main.ebce7c39e6d26962.js",
-      "PackagePath": "staticwebassets/js/ang/sample-app/main.ebce7c39e6d26962.js"
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/main.13a1ae02cf3408b7.js",
+      "PackagePath": "staticwebassets/js/ang/sample-app/main.13a1ae02cf3408b7.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/polyfills.ac7c469a722b7503.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/polyfills.ac7c469a722b7503.js",
       "PackagePath": "staticwebassets/js/ang/sample-app/polyfills.ac7c469a722b7503.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/runtime.1876f823c981b4d3.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/runtime.1876f823c981b4d3.js",
       "PackagePath": "staticwebassets/js/ang/sample-app/runtime.1876f823c981b4d3.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/styles.951d53e263e720c8.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/ang/sample-app/styles.951d53e263e720c8.css",
       "PackagePath": "staticwebassets/js/ang/sample-app/styles.951d53e263e720c8.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/js/site.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/.DS_Store",
+      "PackagePath": "staticwebassets/js/react/.DS_Store"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/asset-manifest.json",
+      "PackagePath": "staticwebassets/js/react/asset-manifest.json"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/favicon.ico",
+      "PackagePath": "staticwebassets/js/react/favicon.ico"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/index.html",
+      "PackagePath": "staticwebassets/js/react/index.html"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/logo192.png",
+      "PackagePath": "staticwebassets/js/react/logo192.png"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/logo512.png",
+      "PackagePath": "staticwebassets/js/react/logo512.png"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/manifest.json",
+      "PackagePath": "staticwebassets/js/react/manifest.json"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/robots.txt",
+      "PackagePath": "staticwebassets/js/react/robots.txt"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/static/.DS_Store",
+      "PackagePath": "staticwebassets/js/react/static/.DS_Store"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/static/css/main.f98bb84b.css",
+      "PackagePath": "staticwebassets/js/react/static/css/main.f98bb84b.css"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/static/css/main.f98bb84b.css.map",
+      "PackagePath": "staticwebassets/js/react/static/css/main.f98bb84b.css.map"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/static/js/592.25c0cbe2.chunk.js",
+      "PackagePath": "staticwebassets/js/react/static/js/592.25c0cbe2.chunk.js"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/static/js/592.25c0cbe2.chunk.js.map",
+      "PackagePath": "staticwebassets/js/react/static/js/592.25c0cbe2.chunk.js.map"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/static/js/main.e802cf6c.js",
+      "PackagePath": "staticwebassets/js/react/static/js/main.e802cf6c.js"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/static/js/main.e802cf6c.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/js/react/static/js/main.e802cf6c.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/static/js/main.e802cf6c.js.map",
+      "PackagePath": "staticwebassets/js/react/static/js/main.e802cf6c.js.map"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+      "PackagePath": "staticwebassets/js/react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg"
+    },
+    {
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {

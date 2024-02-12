@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dusFGz5aVb+pN9UgLO3yeJmM0ieC4NFnK9w7zXsO3rsX8KRR67NUXa2xVJMAqCB+RMzzpdmieCmU8CJNyMen3g==",
+  "dgSpecHash": "PgoC9RrOkDf8AUsMw/GJzKtMFOB/mMBPJK3vDybwfxh40FCEvhVxUaGsLJp5g5JReXjve5pGOVxfEpR5Znilmw==",
   "success": true,
-  "projectFilePath": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC.csproj",
+  "projectFilePath": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC.csproj",
   "expectedPackageFiles": [
     "/Volumes/extHomef/williamjones/.nuget/packages/blazor-apexcharts/2.2.1/blazor-apexcharts.2.2.1.nupkg.sha512",
     "/Volumes/extHomef/williamjones/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",

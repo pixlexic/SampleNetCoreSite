@@ -15,6 +15,7 @@
     <None Remove="Components\" />
     <None Remove="Views\Blazor\" />
     <None Remove="Views\Angular\" />
+    <None Remove="Views\React\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Areas\" />
@@ -24,6 +25,7 @@
     <Folder Include="Components\" />
     <Folder Include="Views\Blazor\" />
     <Folder Include="Views\Angular\" />
+    <Folder Include="Views\React\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.11" />

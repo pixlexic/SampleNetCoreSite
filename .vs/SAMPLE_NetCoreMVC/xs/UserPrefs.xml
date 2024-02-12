@@ -1,46 +1,57 @@
 ﻿<Properties StartupConfiguration="{368F0BE8-A483-4479-BF63-836466CCE4FE}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SAMPLE_NetCoreMVC/Areas/API/Controllers/ExampleController.cs">
+  <MonoDevelop.Ide.ItemProperties.SAMPLE__NetCoreMVC PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SAMPLE_NetCoreMVC/Views/React/Index.cshtml">
     <Files>
-      <File FileName="SAMPLE_NetCoreMVC/Program.cs" Line="22" Column="42" />
-      <File FileName="SAMPLE_NetCoreMVC/Properties/launchSettings.json" Line="1" Column="1" />
-      <File FileName="SAMPLE_NetCoreMVC/Views/Razor/Index.cshtml" Line="18" Column="1" />
-      <File FileName="SAMPLE_NetCoreMVC/Controllers/RazorController.cs" Line="20" Column="42" />
-      <File FileName="SAMPLE_NetCoreMVC/Components/SampleForm.razor" Line="79" Column="7" />
-      <File FileName="SAMPLE_NetCoreMVC/Views/Shared/_Layout.cshtml" Line="16" Column="1" />
-      <File FileName="SAMPLE_NetCoreMVC/Models/BaseViewModel.cs" Line="1" Column="1" />
-      <File FileName="SAMPLE_NetCoreMVC/Models/HeaderModel.cs" Line="18" Column="10" />
+      <File FileName="SAMPLE_NetCoreMVC/Program.cs" />
+      <File FileName="SAMPLE_NetCoreMVC/Properties/launchSettings.json" />
+      <File FileName="SAMPLE_NetCoreMVC/Components/SampleForm.razor" Line="91" Column="68" />
+      <File FileName="SAMPLE_NetCoreMVC/Views/Shared/_Layout.cshtml" />
+      <File FileName="SAMPLE_NetCoreMVC/Models/BaseViewModel.cs" />
+      <File FileName="SAMPLE_NetCoreMVC/Models/HeaderModel.cs" Line="15" Column="12" />
       <File FileName="SAMPLE_NetCoreMVC/Models/ErrorViewModel.cs" Line="1" Column="1" />
-      <File FileName="SAMPLE_NetCoreMVC/Models/RazorExampleModel.cs" Line="4" Column="32" />
-      <File FileName="SAMPLE_NetCoreMVC/Models/SampleItemModel.cs" Line="15" Column="3" />
-      <File FileName="SAMPLE_NetCoreMVC/Views/Shared/_Header.cshtml" Line="1" Column="1" />
-      <File FileName="SAMPLE_NetCoreMVC/wwwroot/css/site.css" Line="197" Column="1" />
-      <File FileName="SAMPLE_NetCoreMVC/Models/ChartItem.cs" Line="9" Column="1" />
+      <File FileName="SAMPLE_NetCoreMVC/Models/RazorExampleModel.cs" Line="23" Column="94" />
+      <File FileName="SAMPLE_NetCoreMVC/Models/SampleItemModel.cs" Line="16" Column="14" />
+      <File FileName="SAMPLE_NetCoreMVC/Views/Shared/_Header.cshtml" />
+      <File FileName="SAMPLE_NetCoreMVC/wwwroot/css/site.css" />
+      <File FileName="SAMPLE_NetCoreMVC/Models/ChartItem.cs" />
       <File FileName="SAMPLE_NetCoreMVC/Areas/API/Controllers/ExampleController.cs" Line="61" Column="19" />
       <File FileName="SAMPLE_NetCoreMVC/Models/DatatReturn.cs" Line="7" Column="49" />
+      <File FileName="SAMPLE_NetCoreMVC/Views/React/Index.cshtml" Line="21" Column="26" />
+      <File FileName="SAMPLE_NetCoreMVC/Controllers/ReactController.cs" Line="21" Column="34" />
+      <File FileName="SAMPLE_NetCoreMVC/Controllers/AngularController.cs" Line="18" Column="2" />
+      <File FileName="SAMPLE_NetCoreMVC/wwwroot/js/react/index.html" Line="1" Column="116" />
+      <File FileName="SAMPLE_NetCoreMVC/Views/Angular/Index.cshtml" Line="29" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SAMPLE_NetCoreMVC" expanded="True">
-            <Node name="SAMPLE_NetCoreMVC" expanded="True">
+            <Node name="SAMPLE_NetCoreMVC">
               <Node name="Dependencies" expanded="True" />
               <Node name="Areas" expanded="True">
                 <Node name="API" expanded="True">
-                  <Node name="Controllers" expanded="True">
-                    <Node name="ExampleController.cs" selected="True" />
-                  </Node>
+                  <Node name="Controllers" expanded="True" />
                 </Node>
               </Node>
-              <Node name="Components" expanded="True" />
               <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
+                <Node name="Angular" expanded="True" />
                 <Node name="Blazor" expanded="True" />
+                <Node name="React" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
+                <Node name="js" expanded="True">
+                  <Node name="react" expanded="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -48,11 +59,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.SAMPLE__NetCoreMVC PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

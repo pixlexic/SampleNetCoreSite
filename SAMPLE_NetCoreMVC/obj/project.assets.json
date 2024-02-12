@@ -10016,11 +10016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC.csproj",
+      "projectUniqueName": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC.csproj",
       "projectName": "SAMPLE_NetCoreMVC",
-      "projectPath": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC.csproj",
+      "projectPath": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC.csproj",
       "packagesPath": "/Volumes/extHomef/williamjones/.nuget/packages/",
-      "outputPath": "/Volumes/extHomef/williamjones/Projects/SAMPLE_NetCoreMVC/SAMPLE_NetCoreMVC/obj/",
+      "outputPath": "/Volumes/extHomef/williamjones/Documents/GitHub/SampleNetCoreSite/SAMPLE_NetCoreMVC/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/Volumes/extHomef/williamjones/Library/Application Support/Godot/mono/GodotNuGetFallbackFolder",

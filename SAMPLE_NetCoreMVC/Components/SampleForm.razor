@@ -17,8 +17,8 @@
             @foreach (var item in Razor.Items)
             {
 
-                <div class="@(odd ? "shadeColor": "shadeColorB")" style="flex: 0 1 auto; padding: 0 10px;  ">
-                    <button style="width: 300px; text-align:left; padding:6px;" @onclick="() => SetCurrent(item)">@item.Title</button>
+                <div class="@(odd ? "shadeColor ": "shadeColorB")" style="flex: 0 1 auto; padding: 0 0px;  ">
+                    <button class="shadeColorH"style="width: 100%; text-align:left; padding:6px;" @onclick="() => SetCurrent(item)">@item.Title</button>
                 </div>
 
                 odd = !odd;
@@ -88,7 +88,7 @@
     [Parameter]
     public RazorExampleModel? Razor { get; set; }
 
-    public SampleItemModel? _currentItem = new SampleItemModel("test", "", 0, 10, 10);
+    public SampleItemModel? _currentItem = new SampleItemModel("", "test", "", 0, 10, 10);
 
 
 
