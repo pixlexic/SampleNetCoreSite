@@ -14,6 +14,8 @@
         <div class="titleSmall"> Items </div>
         <div class="baseAbsolute" style="display:flex; top:30px; flex-direction:column;">
             @{ var odd = true; }
+
+            @if(Razor != null && Razor.Items != null) { 
             @foreach (var item in Razor.Items)
             {
 
@@ -23,6 +25,7 @@
 
                 odd = !odd;
             }
+            }
         </div>
 
     </div>
@@ -30,7 +33,7 @@
         <div style="position:relative; display: flex; flex-direction:column; ">
             <div class="titleSmall" style="flex: 0 1 auto;">Item Info</div>
 
-            <div style="flex: 0 1 auto; padding: 10px;">@_currentItem.Title</div>
+            <div style="flex: 0 1 auto; padding: 10px;">@if (_currentItem != null && String.IsNullOrEmpty(_currentItem.Title) == false) @_currentItem.Title</div>
             <div style="flex: 1 1 auto; position: relative; display: flex; padding: 10px;">
                 <div style="flex: 1 1 auto; display: flex; ">
                     <div style="flex: 0 1 auto;">
@@ -40,7 +43,7 @@
                         <div class="inputTitle shadeColorB">Qty</div>
                     </div>
                     <div style="flex: 0 1 auto; width: 400px;">
-                        <div class="itemValue shadeColor">@_currentItem.Title</div>
+                        <div class="itemValue shadeColor">@if (_currentItem != null && String.IsNullOrEmpty(_currentItem.Title) == false) @_currentItem.Title</div>
                         <div class="itemValue shadeColorB"><input style="width:95%;" type="text" @bind="_currentItem.Description" /></div>
                         <div class="itemValue shadeColor"><input style="width:50px; " type="text" @bind="_currentItem.Cost" /></div>
                         <div class="itemValue shadeColorB"><input style="width:50px;" type="text" @bind="_currentItem.Qty" /></div>
@@ -88,17 +91,20 @@
     [Parameter]
     public RazorExampleModel? Razor { get; set; }
 
-    public SampleItemModel? _currentItem = new SampleItemModel("", "test", "", 0, 10, 10);
+    public  SampleItemModel _currentItem = new SampleItemModel();
 
 
 
     private ApexChartOptions<ChartItem>? options;
-    private ApexChart<ChartItem>? chart;
+    private ApexChart<ChartItem> chart = new ApexChart<ChartItem>();
     private List<ChartItem> Charts = new List<ChartItem>();
 
 
     protected override void OnInitialized()
     {
+
+      
+
 
         options = new ApexChartOptions<ChartItem>
         {
@@ -110,23 +116,20 @@
         };
 
 
-        SetUpChart();
+
+
+        SetUpChart().Wait();
 
     }
 
 
 
-    private void SetCurrent(SampleItemModel sampItem)
+    private async void SetCurrent(SampleItemModel sampItem)
     {
 
         _currentItem = sampItem;
 
-
-        // Charts[0].Value = sampItem.Sold;
-
-        SetUpChart();
-
-        //StateHasChanged();
+        await SetUpChart();
 
     }
 

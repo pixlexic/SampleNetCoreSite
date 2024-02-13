@@ -11,18 +11,7 @@ namespace SAMPLE_NetCoreMVC.Models
         public int Sold { get; set; }
 
 
-        public SampleItemModel(string INid, string INtitle, string INdes, decimal INcost, int INqty, int INsold)
-		{
-			Id = INid;
-			Title = INtitle;
-			Description = INdes;
-			Cost = INcost;
-			Qty = INqty;
-			Sold = INsold;
-
-
-
-		}
+     
 	}
 }
 

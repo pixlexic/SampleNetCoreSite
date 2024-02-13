@@ -11,4 +11,4 @@
 
 
 
-<button style="width: 300px; text-align:left; padding:6px;" onclick="">@Item.Title</button>
+<button style="width: 300px; text-align:left; padding:6px;">@if (Item != null && String.IsNullOrEmpty(Item.Title) == false) @Item.Title</button>

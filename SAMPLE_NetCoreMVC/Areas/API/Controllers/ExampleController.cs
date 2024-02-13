@@ -4,47 +4,29 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using SAMPLE_NetCoreMVC.Models;
+using SAMPLE_NetCoreMVC.Services;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace SAMPLE_NetCoreMVC.Areas.API.Controllers
 {
+
+
+    [Area("API")]
+    [ApiController]
     [Route("api/[controller]")]
     public class ExampleController : Controller
     {
-        // GET: api/values
-        [HttpGet]
-        public IEnumerable<string> Get()
+
+
+        private readonly IDataService _dataService;
+
+
+        public ExampleController(IDataService dataService)
         {
-            return new string[] { "value1", "value2" };
+
+            _dataService = dataService;
         }
-
-        // GET api/values/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST api/values
-        [HttpPost]
-        public void Post([FromBody]string value)
-        {
-        }
-
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
-
-
 
 
         [HttpGet("GetItems")]
@@ -52,11 +34,10 @@ namespace SAMPLE_NetCoreMVC.Areas.API.Controllers
         {
 
 
-            RazorExampleModel _rz = new RazorExampleModel();
-
+            var _items = _dataService.GetSampleItems();
 
             DatatReturn _dr = new DatatReturn();
-            _dr.SampleItems = _rz.Items;
+            _dr.SampleItems = _items;
 
             return new JsonResult(_dr);
 
